@@ -28,7 +28,7 @@ sudo apt install git
 
 #### Downloading and Running the Program
 ````
-git clone https://github.com/ahmetozmtn/YoutubeDownloader.git
+git clone https://github.com/OpenSoftware-World/YoutubeDownloader.git
 cd YoutubeDownloader
 pip install -r requirements.txt
 python YouTubeDownloader.py
@@ -42,3 +42,7 @@ python YouTubeDownloader.py
 * [youtube-search-python](https://github.com/alexmercerind/youtube-search-python)
 * [os](https://github.com/python/cpython/blob/main/Lib/os.py)
 * [PyAppDevKit](https://github.com/OpenSoftware-World/PyAppDevKit)
+
+## Related links
+
+[OpenSoftware-World-YoutubeDownloader](https://github.com/OpenSoftware-World/OpenSoftware-World-YoutubeDownloader)

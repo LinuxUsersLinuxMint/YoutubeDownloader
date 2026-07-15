@@ -10,13 +10,13 @@ from PyAppDevKit.pyappdevkit import *
 PYTHON_LIB_NAME="PyAppDevKit"
 PYTHON_LIB_LICENCE="GPL2"
 PYTHON_LIB_IMPLEMENTED_CONTRACTS="OpenSoftware-World Privacy and Security Agreement , OpenSoftware-World Web (Site) Agreement"
-PYTHON_LIB_IMPLEMENTED_CONTRACTS_WEB_SITE="https://opensoftware-world.github.io/Contracts/privacyandsecutryagreement/privacyandsecutryagreement.html , https://opensoftware-world.github.io/Contracts/opensoftwareworldwebsiteagreement/opensoftwareworldwebsiteagreement.html"
+PYTHON_LIB_IMPLEMENTED_CONTRACTS_WEB_SITE="https://opensoftware-world.com/Contracts/privacyandsecutryagreement/privacyandsecutryagreement.html , https://opensoftware-world.com/Contracts/opensoftwareworldwebsiteagreement/opensoftwareworldwebsiteagreement.html"
 PYTHON_LIB_VER="2.1"
 PYTHON_LIB_SUPPORT_PLATFORM="Windows/Linux/macOS/otherOS"
 PYTHON_LIB_RELEASE_DATE="6/9/2024, Time: 17:54"
 PYTHON_LIB_LAST_UPDATE_DATE="3/31/2025, Time: 19:37 / 7:37 PM"
 PYTHON_LIB_AUTHOR="OpenSoftware-World"
-PYTHON_LIB_AUTHOR_WEB_SITE="https://opensoftware-world.github.io"
+PYTHON_LIB_AUTHOR_WEB_SITE="https://opensoftware-world.com"
 
 def LibAbout():
     app_info("Python Library Name:",PYTHON_LIB_NAME,"Python Library Version:",PYTHON_LIB_VER,"Python Library Support OS:",PYTHON_LIB_SUPPORT_PLATFORM,"Python Library Licence Name:",PYTHON_LIB_LICENCE,"Python Library Implemented Contracts:",PYTHON_LIB_IMPLEMENTED_CONTRACTS,"Python Library Implemented Contracts Web Site:",PYTHON_LIB_IMPLEMENTED_CONTRACTS_WEB_SITE,"Python Library Author Name:",PYTHON_LIB_AUTHOR,"Python Library Author Web Site:",PYTHON_LIB_AUTHOR_WEB_SITE,"Python Library Release Date:",PYTHON_LIB_RELEASE_DATE,"Python Library Last Update Date:",PYTHON_LIB_LAST_UPDATE_DATE)
