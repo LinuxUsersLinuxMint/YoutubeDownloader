@@ -16,7 +16,7 @@ This project was written using Python and various libraries. The project allows 
 
 ### Installing the Library and Other Requirements
 
-###Linux
+### Linux
 #### Ubuntu & Debian Installation of Required Programs and Tools
 ````
 sudo apt update
